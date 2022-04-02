@@ -1,0 +1,24 @@
+{
+    "name": "rpilocator-watcher",
+    "version": "1.0.0",
+    "description": "A bot that monitors rpilocator and send available offers to a Discord webhook",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "node-cron": "^3.0.0",
+        "rss-parser": "^3.12.0",
+        "simple-discord-webhooks": "^1.1.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LockBlock-dev/rpilocator-watcher.git"
+    },
+    "author": "LockBlock-dev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/LockBlock-dev/rpilocator-watcher/issues"
+    },
+    "homepage": "https://github.com/LockBlock-dev/rpilocator-watcher#readme"
+}

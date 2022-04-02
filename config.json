@@ -1,0 +1,6 @@
+{
+    "discordWebhookURL": "",
+    "cronDelay": "*/60 * * * * *",
+    "keywords": ["RPi 4 Model B - 4GB RAM", "RPi 3 Model A+ - 512MB RAM"],
+    "ownerId": "123456789012345678"
+}
